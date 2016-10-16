@@ -3,12 +3,12 @@
 // @namespace   WaitSpin
 // @description WARNING: THIS IS IN ALPHA STATE. Displays a visual feedback while the browser waits for the response of a request loads a new page.
 // @include     *
-// @version     0.106
+// @version     0.107
 // @grant       none
 // @copyright   marcel@codeministry.ch
 // @author      marcel@codeministry.ch
-// @downloadURL https://gist.github.com/suterma/5011617d308bc800bcae7c1f26279c1c/raw/waitin.user.js
-// @updateURL   https://gist.github.com/suterma/5011617d308bc800bcae7c1f26279c1c/raw/waitin.user.js
+// @downloadURL https://github.com/suterma/WaitSpin/raw/master/WaitSpin.user.js
+// @updateURL   https://github.com/suterma/WaitSpin/raw/master/WaitSpin.user.js
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
 // @require     https://cdnjs.cloudflare.com/ajax/libs/spin.js/2.3.2/spin.min.js
 // ==/UserScript==
@@ -16,6 +16,7 @@
 // ---------------------------------------
 // Changelog
 // 1.0.6 Cleanup, Implementing of official mozilla progess events
+// 1.0.7 Rename to WaitSpin, move from gist to it's own repo
 // ---------------------------------------
 
 
