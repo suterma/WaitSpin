@@ -5,7 +5,7 @@
 // @include     *
 // @version     0.107
 // @grant       none
-// @copyright   marcel@codeministry.ch
+// @copyright   marcel@codeministry.ch, GPLv3 License
 // @author      marcel@codeministry.ch
 // @downloadURL https://github.com/suterma/WaitSpin/raw/master/WaitSpin.user.js
 // @updateURL   https://github.com/suterma/WaitSpin/raw/master/WaitSpin.user.js
